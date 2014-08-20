@@ -17,5 +17,5 @@ style="border:1px solid black"
  &nbsp;<img src="bottom-right.jpg" style="border:1px solid black" width="280px">
 </div>
 <h4>Completed Project</h4>
-<h4 align="center">£400K Refurbishment of Sandes, Pribright services include;
-drawings,<br>Bill of Quanties, contract documents and full project management</h4>
+<h4 align="center">£400K Refurbishment of Sandes, Pirbright, services include; drawings,
+<br>Bill of Quantities, contract documents and full project management</h4>
