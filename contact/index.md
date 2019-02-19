@@ -42,13 +42,15 @@ Ciaran Andrews Bsc Hons MRICS MCIAT
 RICS Accredited Building Conservation Surveyor  
 Chartered Building Surveyor  
 Chartered Architectural Technologist  
+Assigned Certifier (ROI)  
 
-CA Architectural  
-Address:  
-17 Drumfad Mill  
-Millisle  
+CA Architectural Address:  
+
+117 Donaghadee Road  
+Groomsport  
+Orlock  
 Co. Down  
-BT22 2GW  
+BT19 6LT  
 
 E-mail: 	<ciaran@caarchitectural.com>  
 Telephone: 	07803 166653  
