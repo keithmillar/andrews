@@ -37,8 +37,14 @@ frmvalidator.addValidation("email","email","Please enter a valid email address")
 </script>
 
 
-Ciaran Andrews Bsc Hons MRICS MCIAT  
-Address: 
+Ciaran Andrews Bsc Hons MRICS MCIAT 
+ 
+RICS Accredited Building Conservation Surveyor  
+Chartered Building Surveyor  
+Chartered Architectural Technologist  
+
+CA Architectural  
+Address:  
 17 Drumfad Mill  
 Millisle  
 Co. Down  
