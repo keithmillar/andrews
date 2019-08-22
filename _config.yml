@@ -12,7 +12,7 @@ baseurl: "" # does not include hostname
 
 excerpt_separator: "{{ more }}"
 markdown_ext: markdown,mkd,mkdn,md
-markdown: redcarpet
+markdown: kramdown
 main_title: "Ciaran Andrews Architectural Consultant"
 description: "Architectural Consultant"
 title: "Ciaran Andrews Architectural Consultants"
